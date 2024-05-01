@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    text-align: center;
+    background-color: aqua;
+}
+
+.h1{
+    text-align: center;
+}
+
+.div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.maindiv{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    color: white;
+}
+body{
+    background-color: #111827;
+}
